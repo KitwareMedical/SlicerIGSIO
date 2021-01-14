@@ -60,7 +60,7 @@ add_subdirectory(SlicerIGSIOCommon)
 add_subdirectory(SequenceIO)
 add_subdirectory(VideoUtil)
 add_subdirectory(VolumeReconstruction)
-add_subdirectory(MetafileImporter)
+# add_subdirectory(MetafileImporter)
 
 #-----------------------------------------------------------------------------
 include(${Slicer_EXTENSION_GENERATE_CONFIG})
